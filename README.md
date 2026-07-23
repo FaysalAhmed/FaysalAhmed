@@ -1,52 +1,51 @@
-# Hi there, I'm Faysal Ahmed 👋
+# Faysal Ahmed
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-faysalahmedshohel-blue?style=flat&logo=linkedin)](https://linkedin.com/in/faysalahmedshohel)
-[![Twitter](https://img.shields.io/badge/Twitter-@shohelislam-1DA1F2?style=flat&logo=x)](https://twitter.com/shohelislam)
-[![Website](https://img.shields.io/badge/Portfolio-FaysalAhmed.github.io-green?style=flat&logo=google-chrome)](https://faysalahmed.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-FaysalAhmed-121013?style=flat&logo=github&logoColor=white)](https://github.com/FaysalAhmed)
+[![Email](https://img.shields.io/badge/Email-faysal.ahmed833%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:faysal.ahmed833@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-0A66C2?style=flat&logo=googlemaps&logoColor=white)](https://www.google.com/maps/search/Dhaka,+Bangladesh)
 
----
+Senior software engineering and IT leader with 13+ years of experience delivering scalable web, mobile, and microservices products across e-commerce, fintech, travel, and enterprise domains. I work across backend architecture, frontend delivery, cloud engineering, and team leadership, with a focus on shipping systems that improve reliability, speed, and business outcomes.
 
-### 🚀 About Me
+## Core Skills
 
-I am a Software Engineer based in **Dhaka, Bangladesh**, passionate about building scalable web applications, geolocation & dispatch engines, and robust backend systems.
+- Backend engineering: Node.js, NestJS, Express.js, Laravel, REST APIs, GraphQL, microservices, system design
+- Frontend engineering: React.js, Next.js, Vue.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS
+- Cloud and DevOps: AWS, Docker, Kubernetes, CI/CD, GitHub Actions
+- Data and storage: PostgreSQL, MySQL, Redis, in-memory caching
+- Leadership and delivery: Agile/Scrum, TDD, engineering management, roadmap planning, mentorship
 
-* 🔭 **Currently working on:** Fleet management and GIS-based asset tracking platforms.
-* 🌱 **Learning & Exploring:** Advanced microservices architectures and distributed systems.
-* 💬 **Ask me about:** TypeScript, Full-stack Web Development, Node.js, and Geo-dispatch solutions.
-* 📫 **How to reach me:** Connect with me on [LinkedIn](https://linkedin.com/in/faysalahmedshohel) or check out my [Portfolio](https://faysalahmed.github.io).
+## Experience Highlights
 
----
+- Led IT strategy and engineering execution for a 450-employee e-commerce organization, keeping platforms available and scalable around the clock.
+- Managed and mentored teams of up to 20 engineers, improving productivity through workflow standardization and developer training.
+- Built ERP, payment reconciliation, and automation systems integrating bKash, Nagad, and SSLCommerz.
+- Delivered microservices, Node.js APIs, and cloud infrastructure improvements that reduced deployment time by 30% and infrastructure cost by 20%.
+- Designed high-traffic booking, travel, and marketplace systems with AWS Lambda, Docker, PostgreSQL, Stripe, and real-time integrations.
+- Built AI, scraping, analytics, and identity solutions using NestJS, Express.js, Rasa, Chrome extensions, and decentralized identity tooling.
 
-### 🛠️ Tech Stack & Tools
+## Selected Background
 
-**Languages & Frameworks:**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Tools & Databases:**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-### 📌 Highlighted Projects
-
-| Project | Description | Stack |
+| Role | Company | Focus |
 | :--- | :--- | :--- |
-| **`fleet-asset-tracking`** | Real-time vehicle tracking and route monitoring solution. | TypeScript / Node.js |
-| **`GeoDispatch`** | Geolocation dispatching and route management system. | TypeScript / GIS |
-| **`my-hero-editor`** | Full-stack interactive editor platform (Frontend + Backend). | TypeScript / React |
+| Head of IT | Ghorer Bazar | IT strategy, ERP, payment reconciliation, cloud optimization |
+| Backend Lead Software Engineer | BacBon Limited | Laravel/NestJS microservices, DID, TDD, performance tuning |
+| Software Engineering Manager | Bit Byte Technology | Team leadership, travel booking platforms, AWS Lambda migration |
+| Senior Tech Lead | Apsis Solutions Limited | Client delivery, e-commerce microservices, CI/CD |
+| Senior Full Stack Developer (Team Lead) | Quantanite | HRMS, Chrome extensions, real-time analytics |
 
----
+## Education and Certifications
 
-### 📊 GitHub Stats
+- M.Sc. in Software Engineering, Daffodil International University, defense candidate 2026
+- B.Sc. in Computer Science and Engineering, Patuakhali Science and Technology University
+- Certifications in technical product management, software architecture, and management foundations
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FaysalAhmed&show_icons=true&theme=radial&hide_border=true" alt="Faysal's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaysalAhmed&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+## Additional Information
+
+- Languages: English, Bangla, Hindi, Japanese
+- Workflow: AI-native development using Cursor, Claude, and OpenCode
+- Location: Dhaka, Bangladesh
+
+## Contact
+
+- GitHub: [FaysalAhmed](https://github.com/FaysalAhmed)
+- Email: [faysal.ahmed833@gmail.com](mailto:faysal.ahmed833@gmail.com)
