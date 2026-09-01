@@ -31,7 +31,7 @@ Senior software engineering and IT leader with 13+ years of experience deliverin
 
 ## Additional Information
 
-- Languages: English, Bangla, Hindi, Japanese
+- Languages: English, Bangla, Hindi
 - Workflow: AI-native development using Cursor, Claude, and OpenCode
 - Location: Dhaka, Bangladesh
 
