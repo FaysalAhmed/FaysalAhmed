@@ -23,16 +23,6 @@ Senior software engineering and IT leader with 13+ years of experience deliverin
 - Designed high-traffic booking, travel, and marketplace systems with AWS Lambda, Docker, PostgreSQL, Stripe, and real-time integrations.
 - Built AI, scraping, analytics, and identity solutions using NestJS, Express.js, Rasa, Chrome extensions, and decentralized identity tooling.
 
-## Selected Background
-
-| Role | Company | Focus |
-| :--- | :--- | :--- |
-| Head of IT | Ghorer Bazar | IT strategy, ERP, payment reconciliation, cloud optimization |
-| Backend Lead Software Engineer | BacBon Limited | Laravel/NestJS microservices, DID, TDD, performance tuning |
-| Software Engineering Manager | Bit Byte Technology | Team leadership, travel booking platforms, AWS Lambda migration |
-| Senior Tech Lead | Apsis Solutions Limited | Client delivery, e-commerce microservices, CI/CD |
-| Senior Full Stack Developer (Team Lead) | Quantanite | HRMS, Chrome extensions, real-time analytics |
-
 ## Education and Certifications
 
 - M.Sc. in Software Engineering, Daffodil International University, defense candidate 2026
